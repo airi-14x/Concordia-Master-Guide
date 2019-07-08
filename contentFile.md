@@ -1,6 +1,6 @@
 ###### About Me
 
-> Hello. I'm just a student in their final year of Computer Science. I haven't lived in Rez so I'm inexperience to give you my option on that. Aside that I hope that this guide can be of help to you regardless of what year you are in. This guide benefits CS students the most among all majors because it's based on personal experience. But, it can be seen as compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of majors.
+> Hello. I'm just a student in their final year of Computer Science. I haven't lived in Rez so I'm inexperience to give you my option on that. Aside that I hope that this guide can be of help to you regardless of what year you are in. This guide benefits CS students since it's based on my experience. But, it can be seen as master compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of majors.
 > Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck.
 > Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
 > Version: 1.0
@@ -25,7 +25,7 @@
 ##### Recurring Important Tasks
 
 -   Reapply for AFE if you are a Québec resident.
--   Register/Dropping your classes for Summer, Fall and Winter.
+-   Register/Drop your classes for Summer, Fall and Winter semester.
 -   Renew your student ID if it's close to expiration date before the semester starts.
 -   Get your reduced OPUS fare online and get it shipped to your place. August 1st is when you can start to apply for the upcoming year's card.
 -   Check out where your classes are and have a general idea of what your schedule looks like.
@@ -39,9 +39,9 @@
 
 -   Get your [student ID](https://www.concordia.ca/students/birks/student-id.html). You need your admission letter to get your card. Head over there 1 to 3 weeks before the semester starts. 1st place in super crowded location during the start of semester.
 
--   Get your reduced OPUS fare. You can get this online: MyConcordia > Student Services > Online OPUS card request. But, you have to be full-time for that semester and have your student ID photo taken so, get your student ID first. Another place with an awfully long line.
+-   Get your reduced OPUS fare. You can get this online: MyConcordia > Student Services > Online OPUS card request. But, you have to be full-time for that semester and have your student ID photo taken so, get your student ID first. This is another place with an awfully long line.
 
--   ENCS student account? You need this to login to the school's computer and to submit your assignments online. Head over to the [Student Center](https://www.concordia.ca/it/services/encs-user-account.html)
+-   Get your ENCS student account. You need this to login to the school's computer and to submit your assignments online. Head over to the [Student Centre](https://www.concordia.ca/it/services/encs-user-account.html)
 
 -   If you want to use your calculator for midterm/finals, you need to get a ENCS approved sticker. Check if your calculator is on this [list](https://www.concordia.ca/ginacody/aits/calculators.html) and get that approval sticker.
 
@@ -49,25 +49,25 @@
 
 -   Want to get some Developer goodies? [GitHub Student Developer Pack](https://education.github.com/pack)
 
--   Keep the [Academic Calendar](https://www.concordia.ca/academics/undergraduate/calendar/current/sec11.html) handy. Note down at least those payment deadlines, drop/DISC deadlines and holidays.
+-   Keep this handy [Academic Calendar](https://www.concordia.ca/academics/undergraduate/calendar/current/sec11.html) saved somewhere. Note down at least those payment deadlines, drop/DISC deadlines and holidays.
 
 ##### ENCS Exclusives
 
 -   Dropping a class and it's past the DISC deadline?
 
-    > Up until the final exam, you can drop a class. There's something called a late-DISC. If you are really sure that you will fail the class, the final because you were swamped with other classes, don't fret. Apply for a late DISC, give a reason and it will get accepted. You won't fail the class. Just don't go taking that final after you get approved.
+    > Up until the final exam, you can drop a class. There's something called a late-DISC. If you are really sure that you will fail the final and the class, because you were swamped with other classes, don't fret. Apply for a late DISC, give a reason and it will get accepted. You won't fail the class. It would just show up as DISC on your transcript. Just don't go taking that final after you get approved.
 
--   All possible [ENCS Courses](https://www.concordia.ca/academics/undergraduate/calendar/current/sec71/71-70.html#compsci)?
+-   All possible [ENCS Courses](https://www.concordia.ca/academics/undergraduate/calendar/current/sec71/71-70.html#compsci).
 
 ##### Registration
 
--   Literally have no clue what courses you want to take? Check out your department's respective [course sequence](https://www.concordia.ca/ginacody/computer-science-software-eng/programs/course-sequences.html)
+-   Literally have no clue what courses you have to take? Check out your department's respective [course sequence](https://www.concordia.ca/ginacody/computer-science-software-eng/programs/course-sequences.html)
 
 -   Register for your courses as soon as you can. When registration is open, it's open for **Summer, Fall and Winter**. Spots do fill up.
 
 -   Actually have a choice of which prof to take? Checkout [RatemyProfessors](https://www.ratemyprofessors.com/campusRatings.jsp?sid=1422)
 
--   Unless you are a morning person or live literally under 30 minutes away from school, don't take 8h45 classes. Heck even 10h15 classes feel early at times. Likewise, some classes can end at 23h30 so check out when your tutorial/labs end and adjust your schedule if you can.
+-   Unless you are a morning person or live literally under 30 minutes away from school, don't take 8h45 classes. Heck even 10h15 classes feel early at times. Likewise, some classes can end at 23h30 so check out when your tutorial/labs end and adjust your schedule if you can. Some labs and tutorials are not mandatory so you don't have to go. Just make sure to see if it's worthwhile by attending them during the second week of class.
 
 -   Cannot enroll into a mandatory class? Send a email to your program advisor. You can find your respective advisor if you scroll down in your "Student Center" page.
 
@@ -125,9 +125,11 @@
 -   Course Outline and Syllabus. You are looking at your class's roadmap. If you want a guide of how to keep up with the class, this is a good indicator of what you will be taught.
 -   [Moodle](http://moodle.concordia.ca): This is where professors put up their lecture slides, reading recommendations, assignments... Profs will tell you where they will be updating their notes so if it's not Moodle, it might be their personal site that is locked with a password.
 
--   Assignments: If you are in Computer Science or Software Engineering, theorical and coding assignments. Most of the coding ones are submitted are either on Moodle or on [EAS](https://fis.encs.concordia.ca/eas/)
+-   Tutorials and Labs: Sometimes they are mandatory and other times no. Tutorials and labs start during the second week of class. No tutorial and labs for the first week. You're the judge. See if they bring value to your learning. If not, well, change sections or use that time to do whatever you like.
 
--   Midterms: Most of time it's during the 7th week which is around the end of October for Fall semester and before/after Reading Week Winter semester. That's one of the busiest week of the semester so setup a reminder at least a week before midterm so you can actually study and not cram study. You can call it hell week because having assignments due on that week, plus having classes and examinations. You can see what I mean.
+-   Assignments: If you are in Computer Science or Software Engineering, there are theorical and coding assignments. Most of the coding ones are submitted are either on Moodle or on [EAS](https://fis.encs.concordia.ca/eas/)
+
+-   Midterms: Most of time it's during the 7th week which is around the end of October for Fall and before/after Reading Week Winter. That's one of the busiest week of the semester so setup a reminder at least a week before midterm so you can actually study and not cram study. You can call it hell week because having assignments due on that week, plus having classes and examinations. You can see what I mean.
 
 -   Finals: By around week 4 or 5 of the semester, you can check your "My Student Centre" for when your finals are. Check if there's any conflicts. Worst case is that you have 2 exams on the same day... But unless you happen to have 3 exams within 24 hours, you cannot really change that.
 
@@ -139,29 +141,31 @@
 
 -   These are still classes. You just don't have to be physically there for class. You still have to study for them and it requires more discipline to stay on track.
 
--   Assure that you set aside some time to actually listen to the online lectures and participate. Treat it like a regular class.
+-   Assure that you set aside some time to actually listen to the online lectures and participate. Treat it like a regular class and schedule a time slot for it if you must.
 
--   You may have to pay fees to access the course's site. This fee tend to include a digital textbook with it so before buying that book, check that out before spending another $100+ on a textbook.
+-   You may have to pay additional fees to access the course's site. This fee tend to include a digital textbook with it so before buying that book, check that out before spending another $100+ on a textbook.
 
 ##### Stress, Grades and Time Management
 
--   So a new adventure awaits. A heads up is that that for most class in Computer Science and Software Engineering are curved. Even if you get a legit 28% on the midterm, don't fret. If the class average is around a 40%, you are more or less alright. You still have a chance of passing the final and the class.
+-   So a new adventure awaits. A heads up is that most classes in Computer Science and Software Engineering are curved. Even if you get a legit 28% on the midterm, don't fret. If the class average is around a 40%, you are more or less alright. You still have a high chance of passing the final and the class.
 
 -   Pay special attention to how you are graded for the classes. Sometimes, you can get away with not doing an assignment and it will only dock you 5%. Time is a commodity. Figure out what you want to prioritise or you will be doing a half-arse job on everything.
 
--   **Percentage grades do not directly translate letter grades**. I mean or else a lot of students would fail and there is only so many students one can fail.
+-   **Percentage grades do not directly translate letter grades**.
 
 -   So do those assignments to your best ability because you actually learn more applying the material. Keep up with the lectures. Take the midterm. Take the final and you will be alright. There might be times that you have to do some readings but most of the time you can survive without reading the textbook. Well for CS-related classes that is.
 
--   A small heads up about letter grades for 200s level courses: if your upper level course require this class as a prereq, you need to get a min. **C-**. "D+" means you passed the class but you have to retake this class later one or you will get stuck and not be able to register for some of your required classes.
-
 -   If you really do get stuck with the class material, pay your professor's office hours a visit. They can help you clarify part of the material. Just make sure you know what you don't understand instead of asking a review of the entire class.
+
+-   A small heads up about letter grades for 200s level courses: if your upper level course require this class as a prereq, you need to get a min. **C-**. "D+" means you passed the class but you have to retake this class again later or you will get stuck and not be able to register for some of your required classes.
 
 -   [GPA](https://www.concordia.ca/ginacody/students/academic-services/undergraduate/grade-point-average.html): So you need an annual GPA of 2.00 to be considered in acceptable standing. That's a "C" average which isn't as difficult considering that the classes tends to get curved to at least a "B-" average. Just be around class average and you are more or less good.
 
--   If your GPA is 1.50 to 1.99, you would be put in conditional standing. But, this assessment happens only if you attempt 12 credits within one year(Summer/Fall/Winter). So you messed up your first semester in Fall, you still have the Winter semester to boost up your GPA. More information about [Academic Standing](https://www.concordia.ca/artsci/students/gpa-assessment-academic-standing.html).
+-   If your GPA is 1.50 to 1.99, you would be put in conditional standing. But, this GPA assessment happens only if you attempt 12 credits within one year(Summer/Fall/Winter). So you messed up your first semester in Fall, you still have the Winter semester to boost up your GPA. More information about [Academic Standing](https://www.concordia.ca/artsci/students/gpa-assessment-academic-standing.html).
 
 -   You are in trouble if your GPA is &lt; 1.50 though.
+
+-   During your 1st year, your GPA can easily go up and down since you haven't taken that many classes. As you begin taking more classes, your  overall GPA(cGPA) would stablise somewhere. If your general average is around a B, getting an A- won't bring your GPA up by much in your 2nd or 3rd year. Likewise, getting a C- wouldn't kill it as much as getting it in 1st year.
 
 ### Sophomore's Starterpack // 2nd Year Undergraduate
 

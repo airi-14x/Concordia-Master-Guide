@@ -24,10 +24,10 @@
 
 ##### Recurring Important Tasks
 
--   Reapplying for AFE if you are a Québec resident.
+-   Reapply for AFE if you are a Québec resident.
 -   Register/Dropping your classes for Summer, Fall and Winter.
 -   Renew your student ID if it's close to expiration date before the semester starts.
--   Get your reduced OPUS fare online and shipped to your place. August 1st is when you can start to apply for the upcoming year's card.
+-   Get your reduced OPUS fare online and get it shipped to your place. August 1st is when you can start to apply for the upcoming year's card.
 -   Check out where your classes are and have a general idea of what your schedule looks like.
 -   Pay your student fees by the end of the first month.
 -   Opt out of Concordia's health and dental insurance if you don't need it.

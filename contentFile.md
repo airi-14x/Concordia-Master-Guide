@@ -1,9 +1,9 @@
 ###### About Me
 
 > Hello. I'm just a student in their final year of Computer Science. I haven't lived in Rez so I'm inexperienced to give you my option on that. I hope that this guide can be of help to you regardless of what year you are in. This guide benefits CS students the most since it's based on my experience. But, it can be seen as a master compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of majors.
-> Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck.
-> Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
-> Version: 1.0
+>> Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck.
+>> Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
+>> Version: 1.0
 
 ## Content Sections
 
@@ -41,7 +41,7 @@
 
 -   Get your reduced OPUS fare. You can get this online: MyConcordia > Student Services > Online OPUS card request. But, you have to be full-time for that semester and have your student ID photo taken so, get your student ID first. This is another place with an awfully long line.
 
--   Get your ENCS student account. You need this to log in to the school's computer and to submit your assignments online. Head over to the [Student Centre](https://www.concordia.ca/it/services/encs-user-account.html)
+-   Get your ENCS student account. You need this to log in to the school's computer and to submit your assignments online. Head over to the [Student Centre](https://www.concordia.ca/it/services/encs-user-account.html).
 
 -   If you want to use your calculator for midterm/finals, you need to get an ENCS approved sticker. Check if your calculator is on this [list](https://www.concordia.ca/ginacody/aits/calculators.html) and get that approval sticker.
 

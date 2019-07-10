@@ -1,9 +1,10 @@
 ###### About Me
-Hello. I'm just a student in their final year of Computer Science. This guide benefits CS students the most since it's based on my experience. But, it can be seen as a master compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of major and year.
+Hello. I'm just a student in their final year of Computer Science. This guide can be seen as a master compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of major and year.
 
-Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck. Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
+Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck. 
 
-Version: 1.0 
+Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
+Version: 1.0
 
 ## Table of Contents
 

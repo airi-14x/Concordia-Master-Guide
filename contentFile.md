@@ -1,11 +1,11 @@
 ###### About Me
+Hello. I'm just a student in their final year of Computer Science. This guide benefits CS students the most since it's based on my experience. But, it can be seen as a master compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of major and year.
 
-> Hello. I'm just a student in their final year of Computer Science. I haven't lived in Rez so I'm inexperienced to give you my option on that. I hope that this guide can be of help to you regardless of what year you are in. This guide benefits CS students the most since it's based on my experience. But, it can be seen as a master compilation of answers that student tend to ask on Concordia's Reddit and some tips that may hopefully serve you well regardless of majors.
->> Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck.
->> Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
->> Version: 1.0
+Learn as much as you can and enjoy your journey as a Concordia student. Best of Luck. Please don't hesitate to send me questions and feedback: airi.14x@gmail.com
 
-## Content Sections
+Version: 1.0 
+
+## Table of Contents
 
 -   Recurring Important Tasks
 -   Freshman's Starterpack // 1st Year Undergraduate
@@ -22,6 +22,7 @@
 -   Sophomore's Starterpack // 2nd Year Undergraduate
 -   Junior, Senior and Beyond Starterpack // 3rd Year Undergraduate and +
 
+---
 ##### Recurring Important Tasks
 
 -   Reapply for AFE if you are a Québec resident.
@@ -32,6 +33,8 @@
 -   Pay your student fees by the end of the first month.
 -   Opt-out of Concordia's health and dental insurance if you don't need it.
 -   Check out the [Academic Calendar](https://www.concordia.ca/academics/undergraduate/calendar/current/sec11.html).
+
+---
 
 ### Freshman's Starterpack // 1st Year Undergraduate
 
@@ -70,8 +73,7 @@
 -   Unless you are a morning person or live literally under 30 minutes away from school, don't take 8h45 classes. Heck, even 10h15 classes feel early at times. Likewise, some classes can end at 23h30 so check out when your tutorial/labs end and adjust your schedule if you can. Some labs and tutorials are not mandatory so you don't have to go. Just make sure to see if it's worthwhile by attending them during the second week of class.
 
 -   Cannot enrol into a mandatory class? Send an email to your program advisor. You can find your respective advisor if you scroll down in your "Student Center" page.
-
-    > **Before that: check out if you are missing the requirements.**
+**Before that: check out if you are missing the requirements.**
 
     > Co-requisite: You have to be enrolled in the respective courses at the same time.
 
@@ -97,7 +99,7 @@
 
 -   Want to trade some of your time for money? You can opt-out from some club levy-fee. But, be aware that there's no online opt-out for these fees. You have to go visit each club you want to opt-out in order to get some money back. There is an opt-out period during the beginning of the semester so keep a heads up for this.
 
--   Settling Payments: You can pay your school fees online. But, avoid using Visa/MasterCard for payment unless you want to pay the _convenience fee_ which is 1.75%.
+-   Settling Payments? You can pay your school fees online. But, avoid using Visa/MasterCard for payment unless you want to pay the _convenience fee_ which is 1.75%.
 
 -   Payment Due Date: You have until the end of the month to pay your tuition fees without getting hit by that late fee. So for Fall, the payment becomes due on September 1st but it's actually due on September 31st.
 
@@ -117,7 +119,7 @@
 
 -   School Supplies: If you are hunting for school supplies, be on the lookout for deals around late-July until late-August. You can get yourself a $0.10 CAD Hilroy notebook at that time.
 
--   Buying Books: Please if you don't want to hate yourself, don't go to the bookstore for the first two weeks of school. The lineup will take you around ~30 minutes because all the students have the same idea as you: to get their books when the semester starts. You will have to wait to get into the store and to pay. If you are absolutely certain that you need those books, order [online]([https://stores.concordia.ca/clickcollect/]) and pick them up in-store.
+-   Buying Books? Please if you don't want to hate yourself, don't go to the bookstore for the first two weeks of school. The lineup will take you around ~30 minutes because all the students have the same idea as you: to get their books when the semester starts. You will have to wait to get into the store and to pay. If you are absolutely certain that you need those books, order [online]([https://stores.concordia.ca/clickcollect/]) and pick them up in-store.
 
 -   Don't forget to check out for secondhand books. Most profs don't require you to have a specific edition of a book so you can save $$$.
 
@@ -171,6 +173,7 @@
 
 -   During your 1st year, your GPA can easily go up and down since you haven't taken that many classes. As you begin taking more classes, your overall GPA(cGPA) would stabilise somewhere. If your general average is around a B, getting an A- won't bring your GPA up by much in your 2nd or 3rd year. Likewise, getting a C- wouldn't kill it as much as getting it in 1st year.
 
+---
 ### Sophomore's Starterpack // 2nd Year Undergraduate
 
 ##### Important Notes
@@ -178,12 +181,13 @@
 -   You can get stuck with registering for your classes in this year if you land on these conditions:
     -   Trying to register to 400s level classes without completing all your 200s level classes.
     -   Having taken a 200 level class, passed it with a "D+ or lower" and it is a prerequisite for your higher level class.
-        > You have to retake the class and get at least a "C-" before being able to register for the up-level ones.
+        > You have to retake the class and get at least a "C-" before being able to register for the upper-level ones.
 
 ##### Classes
 
 -   COMP 352 - Data Structures and Algorithms: If anything, this is the class that you need to pay attention to. It's the base for your interviews and your higher-level classes. It may be 3 credits, but don't let that fool you. You need to work for this class and it will favour you greatly if you put the most effort you can for this class. Your future self will thank you.
 
+---
 ### Junior, Senior and Beyond's Starterpack // 3rd Year Undergraduate and +
 
 ##### Repayment

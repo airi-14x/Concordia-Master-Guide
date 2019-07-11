@@ -6,8 +6,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+  <title>Master Guide: Concordia Edition</title>
   {% seo %}
+  <style media="screen">
+    .footer {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      width: 23%;
+      background-color: #b5e853;
+      text-align: center;
+    }
+
+    .table_of_contents--border {
+      border-bottom: 1px dashed #b5e853;
+      padding: 20px 0;
+    }
+
+    li {
+      padding: 5px 0;
+    }
+  </style>
 </head>
 
 <body>
@@ -30,8 +49,10 @@
     </div>
   </header>
 
+  <div class="footer"><a href="#table_of_contents">Back to Table of Contents</a></div>
+
   <div class="container">
-    <section id="table_of_contents">
+    <section class="table_of_contents table_of_contents--border" id="table_of_contents">
       <h2>Table of Contents</h2>
       <ul>
         <li><a href="#recurring_important_tasks">Recurring Important Tasks</a></li>
@@ -53,7 +74,7 @@
 
     <section id="main_content">
       <section id="recurring_important_tasks">
-        <h5>Recurring Important Tasks</h5>
+        <h3>Recurring Important Tasks</h3>
         <ul>
           <li>Reapply for AFE if you are a Québec resident.</li>
           <li>Register/Drop your classes for Summer, Fall and Winter semester.</li>
@@ -64,13 +85,12 @@
           <li>Opt-out of Concordia's health and dental insurance if you don't need it.</li>
           <li>Check out the <a href="https://www.concordia.ca/academics/undergraduate/calendar/current/sec11.html">Academic Calendar</a>.</li>
         </ul>
-        <a href="#table_of_contents">Back to Table of Contents</a>
       </section>
       <section id="freshman">
-        <h3>Freshman's Starterpack // 1st Year Undergraduate</h3>
+        <h2><b>Freshman's Starterpack // 1st Year Undergraduate</b></h2>
 
         <section id="freshman_important">
-          <h5>Important Tasks to Complete for 1st Years</h5>
+          <h3>Important Tasks to Complete for 1st Years</h3>
           <ul>
             <li> Get your <a href="https://www.concordia.ca/students/birks/student-id.html">student ID</a>.
               You need your admission letter to get your card. Head over there 1 to 3 weeks before the semester starts.
@@ -97,7 +117,7 @@
         </section>
 
         <section id="freshman_encs">
-          <h5>ENCS Exclusives</h5>
+          <h3>ENCS Exclusives</h3>
           <ul>
             <li>Dropping a class and it's past the DISC deadline?</li>
             <p>Up until the final exam, you can drop a class. There's something called a late-DISC.
@@ -109,7 +129,7 @@
         </section>
 
         <section id="freshman_registration">
-          <h5>Registration</h5>
+          <h3>Registration</h3>
           <ul>
             <li> Literally have no clue what courses you have to take?
               Check out your department's respective <a href="https://www.concordia.ca/ginacody/computer-science-software-eng/programs/course-sequences.html">course sequence</a>.
@@ -141,7 +161,7 @@
         </section>
 
         <section id="freshman_finance">
-          <h5>Finance and Budgeting</h5>
+          <h3>Finance and Budgeting</h3>
           <ul>
             <li>Loans and Bursaries: <a href="http://www.afe.gouv.qc.ca/en/">AFE (Aide financière aux études) for Québec Residents</a>
               <ul>
@@ -165,7 +185,7 @@
         </section>
 
         <section id="freshman_books">
-          <h5>Books and Supplies</h5>
+          <h3>Books and Supplies</h3>
           <ul>
             <li>CS Freshman classes: COMP 248, COMP 232, COMP 233, COMP 228, SOEN 287
               <ul>
@@ -197,9 +217,9 @@
         </section>
 
         <section id="freshman_classes">
-          <h5>Classes</h5>
+          <h3>Classes</h3>
           <ul>
-            <li><b>Attend the first class at least.</b>f you are going to skip class afterwards, that's up to you.
+            <li><b>Attend the first class at least.</b> If you are going to skip class afterwards, that's up to you.
               But, the first day of class is important because you can acquire the following goods:
               knowledge about whether your prof can teach, whether you need the book, potential friends/teammates,
               passwords for the prof's site where they post their notes ...
@@ -209,8 +229,10 @@
             </li>
             <li><a href="http://moodle.concordia.ca">Moodle</a>: This is where professors put up their lecture slides, reading recommendations, assignments...
               Profs will tell you where they will be updating their notes so if it's not Moodle, it might be their personal site that is locked with a password.
-            </li>Tutorials and Labs: Sometimes they are mandatory and other times no. <b>No tutorial and labs for the first week.</b>
-            Tutorials and labs start during the second week of class. You're the judge. See if they bring value to your learning. If not, well, change sections or use that time to do whatever you like.
+            </li>
+            <li>Tutorials and Labs: Sometimes they are mandatory and other times no. <b>No tutorial and labs for the first week.</b>
+              Tutorials and labs start during the second week of class. You're the judge. See if they bring value to your learning. If not, well, change sections or use that time to do whatever you like.
+            </li>
             <li>Assignments: If you are in Computer Science or Software Engineering, there are theoretical and coding assignments.
               Most of the coding ones are submitted are either on Moodle or on <a href="https://fis.encs.concordia.ca/eas/">EAS</a>.
             </li>
@@ -226,7 +248,7 @@
         </section>
 
         <section id="freshman_online_classes">
-          <h5>Online Classes</h5>
+          <h3>Online Classes</h3>
           <ul>
             <li>These classes open up at the start of the semester. Bookmark this <a href="https://www.econcordia.com/home/index.aspx">page</a>.</li>
             <li>These are still classes. You just don't have to be physically there for class.
@@ -240,7 +262,7 @@
         </section>
 
         <section id="freshman_stress">
-          <h5>Stress, Grades and Time Management</h5>
+          <h3>Stress, Grades and Time Management</h3>
           <ul>
             <li>So a new adventure awaits.
               A heads up is that most classes in Computer Science and Software Engineering are curved. Even if you get a legit 28% on the midterm, don't fret.
@@ -250,20 +272,23 @@
               Sometimes, you can get away with not doing an assignment and it will only dock you 5%. Time is a commodity.
               Figure out what you want to prioritise or you will be doing a half-arse job on everything.
             </li>
-            <li><b>Percentage grades do not directly translate letter grades</b></li>
+            <li><b>Percentage grades do not directly translate letter grades</b>.</li>
             <li>So do those assignments to your best ability because you actually learn more applying the material. Keep up with the lectures.
               Take the midterm. Take the final and you will be alright.
               There might be times that you have to do some readings but most of the time you can survive without reading the textbook.
               Well for CS-related classes that is.
             </li>
             <li>If you really do get stuck with the class material, pay your professor's office hours a visit.
-              They can help you clarify part of the material. Just make sure you know what you don't understand instead of asking a review of the entire class.
+              They can help you clarify part of the material. Just make sure you know what you don't understand instead of asking for a review of the entire class.
             </li>
             <li>
               A small heads up about letter grades for 200s level courses: if your upper-level course requires this class as a prereq,
               you need to get a minimum <b>C-</b>. "D+" means you passed the class but you have to retake this class again later or you will get stuck
               and not be able to register for some of your required classes.
             </li>
+          </ul>
+          <h4>GPA</h4>
+          <ul>
             <li><a href="https://www.concordia.ca/ginacody/students/academic-services/undergraduate/grade-point-average.html">GPA</a>: So you need an annual GPA of 2.00
               to be considered in acceptable standing. That's a "C" average which isn't as difficult considering that the classes tend to get curved to
               at least a "B-" average. Just be around class average and you are more or less good.

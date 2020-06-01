@@ -1,6 +1,6 @@
 # Engineering and Computer Science's Master Guide: Concordia Edition
 
-- ```This is a guide of more or less what you need to know as an ENCS student at Concordia.```
+- `This is a guide of more or less what you need to know as an ENCS student at Concordia.`
 
 | Update | Date |
 | ------| --------------- |

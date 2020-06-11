@@ -1,14 +1,20 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ site.lang | default: "en-US" }}">
 
 <head>
   <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <title>Master Guide: Concordia Edition</title>
+  <title>Concordia | Master Guide</title>
   {% seo %}
   <style media="screen">
+
+    h1 {
+      font-size: 36px; /* Fallback */
+      font-size: 5.4vw;
+    }
+
     .footer {
       position: fixed;
       right: 0;
@@ -46,7 +52,7 @@
 
   <header>
     <div class="container">
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       <p>This guide is a master compilation of answers found on <a href="https://www.reddit.com/r/Concordia/">Concordia's Reddit</a> as well as tips that may hopefully serve you well regardless of major and year. Learn as much as you can and enjoy
         your journey as a
@@ -463,7 +469,7 @@
                 <li> Your class projects are résumé and portfolio-worthy.</li>
                 <li> You will be taking mostly your specialised classes and you will be spending more time on assignments than class material.</li>
                 <li> You will have to work in groups most likely. Some profs that will let you work alone on the assignments but they will be time-consuming.
-                It's probably better to work in a group to complete it and divide up the work.</li>
+                  It's probably better to work in a group to complete it and divide up the work.</li>
               </ul>
             </li>
             <li>Side-projects? It would ideal if you have some additional non-school projects to add to your portfolio. Interviewers like to

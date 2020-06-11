@@ -52,7 +52,9 @@
 
   <header>
     <div class="container">
-      <a id="a-title" href="{{'/'}}">
+      <h3>{{ "/" | relative_url }}</h3>
+      <h4>{{ "/" | absolute_url }}
+      <a id="a-title" href="{{'https://airi-14x.github.io/'}}">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
       </a>
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
